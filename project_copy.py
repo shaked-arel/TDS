@@ -57,7 +57,7 @@ for r in records:
     transactions.append(list(r.items()))
 
 # find the rules by apriory
-itemsets, rules = apriori(transactions, min_support=0.05, min_confidence=0.5,output_transaction_ids=False)
+itemsets, rules = apriori(transactions, min_support=0.05, min_confidence=0.6,output_transaction_ids=False)
 
 # algorithm
 '''go over all the rows that have a nan value'''
