@@ -108,4 +108,4 @@ for row_index in nan_rows:
             mode = (max(set(rules_values), key = rules_values.count))
             dtf.loc[row_index, right] = mode
 #update the csv file
-dtf.to_csv("shopping_filled2.csv", index=False) 
+dtf.to_csv("output.csv", index=False) 
