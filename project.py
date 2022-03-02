@@ -1,5 +1,4 @@
 #data processing
-from ast import Mod
 import pandas as pd
 import numpy as np
 import scipy as sp
