@@ -50,7 +50,7 @@ English,22',3',regular,58,h
 Hebrew,15',3',summer,20,h
 Hebrew,10',22',regular,9,h
 Hebrew,13',1',regular,30,h
-Hebrew,18',21',regular,29,h
+nan,18',21',regular,29,h
 Hebrew,6',17',regular,39,h
 Hebrew,6',17',regular,42,m
 Hebrew,6',17',regular,43,m
@@ -58,10 +58,10 @@ Hebrew,7',11',regular,10,m
 Hebrew,22',3',regular,46,m
 Hebrew,13',3',summer,10,m
 Hebrew,7',25',regular,42,m
-Hebrew,25',7',regular,27,m
-Hebrew,25',7',regular,23,m
-Hebrew,2',9',regular,31,m
-Hebrew,1',15',summer,22,m
+nan,25',7',regular,27,m
+Hebrew,25',nan,regular,23,m
+Hebrew,2',9',regular,31,nan
+Hebrew,1',15',nan,22,m
 Hebrew,15',13',regular,37,m
 Hebrew,7',11',regular,13,m
 Hebrew,8',3',regular,24,m
